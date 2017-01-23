@@ -22,3 +22,11 @@
 * Know what it means for a function to return a vlue
 * Be able to create a simple flowchart
 * Be able to understand a flowchart and explain what it means
+
+# Sample Questions
+* If ```x = [1, 3, 4, 5, 6, 8, 9, 10]```, what is the value of ```x[4]```?
+* How can you create a file called ```octocat.txt``` in your current working directory?
+* Identify why this piece of code isn't working
+* I might provide a function definition, and ask you what the results are based on how I call it (i.e. defining a function called ```say_hi()``` and asking you what happens if I call it with ```say_hi('Fred')```
+* Fill in what is needed to make ```answer = ________('Pick a number')``` take user input and store it in a variable called ```x```
+* Replace the question mark to make ```git commit -? "insert commit message here"``` commit all staged files to your repository with a commit message of *insert commit message here*
